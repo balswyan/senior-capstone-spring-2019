@@ -27,14 +27,13 @@ def get_youtube_info(json_data):
     dislikes_count = topLevelButtons[1]["toggleButtonRenderer"]["defaultText"]["accessibility"]["accessibilityData"]["label"]
     dislikes_count_clean = _strip_non_numeric(dislikes_count)
 
-    #Channel Name, Channel ID, Channel Link, Subscriber Count
+    #Channel Name, Channel ID, Subscriber Count
     videoSecondaryInfoRenderer = json_data[1]["videoSecondaryInfoRenderer"]
     videoOwnerRender = videoSecondaryInfoRenderer["owner"]["videoOwnerRenderer"]
     channel_name = videoOwnerRender["title"]["runs"][0]["text"]
     channel_id = videoOwnerRender["title"]["runs"][0]["navigationEndpoint"]["browseEndpoint"]["browseId"]
     subscriber_count = videoOwnerRender["subscriberCountText"]["simpleText"]
     subscriber_count_clean = _strip_non_numeric(subscriber_count)
-    channel_link = 'youtube.com/' + channel_name
 	
 	#Description
     description_runs = videoSecondaryInfoRenderer["description"]["runs"]
@@ -56,8 +55,7 @@ def get_youtube_info(json_data):
         'likes':likes_count_clean,
         'dislikes':dislikes_count_clean,
         'channel_name:':channel_name,
-        'channel_id:':channel_id,
-        'channel_link:':channel_link,				
+        'channel_id:':channel_id,			
         'subscriber_count':subscriber_count_clean,
         'description':description,
         'channel_description':channel_desc,
