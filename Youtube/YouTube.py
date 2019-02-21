@@ -1,10 +1,9 @@
-import urllib2
-from cookielib import CookieJar
-from bs4 import BeautifulSoup
+import requests
 import re
 import os
 import time
 import json
+from bs4 import BeautifulSoup
 
 def main():
     with open('Page.html', 'r') as f:
@@ -12,11 +11,6 @@ def main():
     soup = BeautifulSoup(html, 'html.parser')
     data = _get_json(soup)
     get_youtube_info(data)
-
-cookies = CookieJar()
-opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cookies))
-opener.addheaders = [('User-agent', 'Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.17 '
-                                    '(KHTML, like Gecko) Chrome/24.0.1312.27 Safari/537.17')]	
 	
 def get_youtube_info(json_data):
     #Title, Views
@@ -53,7 +47,9 @@ def get_youtube_info(json_data):
     category_runs = videoSecondaryInfoRenderer["metadataRowContainer"]["metadataRowContainerRenderer"]["rows"][0]["metadataRowRenderer"]["contents"][0]["runs"]
     categories = [cat["text"] for cat in category_runs]
     
-	
+	#Channel description
+    channel_desc = description_lookup(channel_name)
+
     html_info = {
         'title':video_title,
         'views':view_count_clean,
@@ -64,21 +60,25 @@ def get_youtube_info(json_data):
         'channel_link:':channel_link,				
         'subscriber_count':subscriber_count_clean,
         'description':description,
+        'channel_description':channel_desc,
         'categories':categories
         }
     return html_info
 
-
-
-	#Channel Description #Need to refrence channel_name from get_youtube_info so that we get the description 
-def description_lookup():
-		channel_about_link = 'https://youtube.com/' + channel_name + '/about'	
-		source = opener.open(channel_about_link).read()
-		findLinks = re.findall(r'description" content="(.*?)"', source)
-		for eachThing in findLinks:
-			print(eachThing)
-
-description_lookup()
+def description_lookup(channel_name):
+    """
+    Returns the description of given channel
+    
+    :param channel_name (string): Channel ID/name
+    
+    :return channel_desc (string): Channel description
+    """
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:65.0) Gecko/20100101 Firefox/65.0'
+    }
+    req = requests.get('https://youtube.com/' + channel_name + '/about', headers=headers)
+    channel_desc = re.search(r'description" content="(.*?)"', req.text)
+    return channel_desc[0]
 
 def _strip_non_numeric(item):
     """
