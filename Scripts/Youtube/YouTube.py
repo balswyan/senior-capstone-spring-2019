@@ -26,7 +26,6 @@ def get_youtube_info(html_soup):
     #Likes, Dislikes
     topLevelButtons = videoPrimaryInfoRenderer["videoActions"]["menuRenderer"]["topLevelButtons"]
     likes_count = topLevelButtons[0]["toggleButtonRenderer"]["defaultText"]["accessibility"]["accessibilityData"]["label"]
-    likes_count_clean = _strip_non_numeric(likes_count)
 
     dislikes_count = topLevelButtons[1]["toggleButtonRenderer"]["defaultText"]["accessibility"]["accessibilityData"]["label"]
     dislikes_count_clean = _strip_non_numeric(dislikes_count)
@@ -55,6 +54,7 @@ def get_youtube_info(html_soup):
 
     #Captions
     caption = caption_parser(html_soup)
+    likes_count_clean = _strip_non_numeric(likes_count)
 
     html_info = {
         'title':video_title,
