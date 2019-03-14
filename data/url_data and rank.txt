@@ -1,0 +1,1285 @@
+255	washingtonpost
+124	rt
+45	nytimes
+36	cnn
+30	foxnews
+25	patch
+24	businessinsider
+23	nprorg
+19	reddit
+17	thehill
+17	nbcnews
+17	huffingtonpost
+17	forbes
+15	dailywire
+15	cbsnews
+14	buzzfeed
+12	politico
+12	nypost
+11	theatlantic
+10	time
+9	medium
+8	washingtontimes
+8	theguardian
+8	rawstory
+8	nymag
+7	latimes
+6	vox
+6	variety
+6	usatoday
+6	reuters
+6	newyorker
+6	news
+6	independentcouk
+6	dailymailcouk
+6	article
+5	washingtonexaminer
+5	slate
+5	physorg
+5	newsweek
+5	newsgoogle
+5	chicagotribune
+5	bbc
+4	moneycnn
+4	mintpressnews
+3	yournewswire
+3	nydailynews
+3	newsnationalgeographic
+3	miamiherald
+3	mcall
+3	insiderfoxnews
+3	cnbc
+3	bloomberg
+2	wtop
+2	wsj
+2	villagevoice
+2	townhall
+2	theweek
+2	thenation
+2	thegrapevinetheroot
+2	theglobeandmail
+2	salon
+2	pbsorg
+2	our
+2	oregonlive
+2	newsmax
+2	nationalgeographic
+2	motherjones
+2	mobilewnd
+2	lifesitenews
+2	engadget
+2	counterpunchorg
+2	conservativetribune
+2	cnsnews
+2	cnet
+2	breitbart
+2	and
+2	ajc
+1	zerohedge
+1	ynetnews
+1	xinhuanet
+1	writhing
+1	wnd
+1	without
+1	why
+1	who
+1	when
+1	wfporg
+1	we
+1	videofoxnews
+1	vice
+1	verge
+1	usnews
+1	uscnn
+1	uschronicle
+1	ukbusinessinsider
+1	two
+1	trespassinghtml
+1	trafficoutbrain
+1	to
+1	tmz
+1	timesofindiaindiatimes
+1	thestar
+1	thedailybeast
+1	theconversation
+1	theblaze
+1	the
+1	terror
+1	telegraphcouk
+1	survivalmonkey
+1	subjectpolitics
+1	strike
+1	storms
+1	starbucks
+1	sputniknews
+1	speechhtml
+1	society
+1	smartbrief
+1	shutterstock
+1	shrouded
+1	sfgate
+1	sex
+1	set
+1	seattletimes
+1	scmp
+1	sacbee
+1	room
+1	riverfronttimes
+1	richmond
+1	reserve
+1	reform
+1	redstate
+1	redesign
+1	rd
+1	projectveritas
+1	pressdemocrat
+1	police
+1	photogalleryindiatimes
+1	pcgamer
+1	palestinian
+1	owns
+1	organ
+1	nj
+1	newyorkcbslocal
+1	newstimes
+1	newsday
+1	need
+1	nature
+1	nationalpost
+1	naplesnews
+1	myths
+1	mysteries
+1	murder
+1	mum
+1	msnbc
+1	mom
+1	mobilenytimes
+1	mmetrotimes
+1	missed
+1	men
+1	mediamattersorg
+1	mediaconservative
+1	marketwatch
+1	manager
+1	lifezette
+1	lawyers
+1	lancasteronline
+1	killers
+1	jpost
+1	journalist
+1	jodi
+1	jewsnewscoil
+1	it
+1	israel
+1	isnt
+1	is
+1	investmentwatchblog
+1	interview
+1	inquisitr
+1	independence
+1	in
+1	hylton
+1	hunger
+1	hotair
+1	horrified
+1	holly
+1	hillary
+1	heavy
+1	healthusnews
+1	healthnutnews
+1	hates
+1	hate
+1	gun
+1	gizmodo
+1	gamehtml
+1	ft
+1	frontpagemag
+1	freep
+1	foxbusiness
+1	fortune
+1	flags
+1	filmsforactionorg
+1	feedly
+1	federal
+1	failure
+1	facebook
+1	entertainmenttheonion
+1	enough
+1	emotional
+1	economist
+1	downtrend
+1	detroitnews
+1	detention
+1	desmoinesregister
+1	declaration
+1	death
+1	deadline
+1	day
+1	daughter
+1	dailykos
+1	dailyherald
+1	dailyheadlinesnow
+1	csmonitor
+1	convictionhtml
+1	conservativedailypost
+1	confronted
+1	citypages
+1	chron
+1	childrens
+1	children
+1	charge
+1	cayleehtml
+1	casey
+1	called
+1	blogsscientificamerican
+1	black
+1	bizpacreview
+1	become
+1	bankrate
+1	bank
+1	baby
+1	axios
+1	atlantablackstar
+1	articleslatimes
+1	articles
+1	arstechnica
+1	arias
+1	appeal
+1	anthonys
+1	americanjournalreview
+1	aljazeera
+1	al
+1	agony
+1	again
+1	activityhtml
+...............................
+zerohedge
+yournewswire
+yournewswire
+yournewswire
+ynetnews
+xinhuanet
+wtop
+wtop
+wsj
+wsj
+wnd
+wfporg
+washingtontimes
+washingtontimes
+washingtontimes
+washingtontimes
+washingtontimes
+washingtontimes
+washingtontimes
+washingtontimes
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonpost
+washingtonexaminer
+washingtonexaminer
+washingtonexaminer
+washingtonexaminer
+washingtonexaminer
+vox
+vox
+vox
+vox
+vox
+vox
+villagevoice
+villagevoice
+videofoxnews
+vice
+variety
+variety
+variety
+variety
+variety
+variety
+usnews
+uscnn
+uschronicle
+usatoday
+usatoday
+usatoday
+usatoday
+usatoday
+usatoday
+ukbusinessinsider
+trafficoutbrain
+townhall
+townhall
+tmz
+timesofindiaindiatimes
+time
+time
+time
+time
+time
+time
+time
+time
+time
+time
+theweek
+theweek
+thestar
+thenation
+thenation
+thehill
+thehill
+thehill
+thehill
+thehill
+thehill
+thehill
+thehill
+thehill
+thehill
+thehill
+thehill
+thehill
+thehill
+thehill
+thehill
+thehill
+theguardian
+theguardian
+theguardian
+theguardian
+theguardian
+theguardian
+theguardian
+theguardian
+thegrapevinetheroot
+thegrapevinetheroot
+theglobeandmail
+theglobeandmail
+thedailybeast
+theconversation
+theblaze
+theatlantic
+theatlantic
+theatlantic
+theatlantic
+theatlantic
+theatlantic
+theatlantic
+theatlantic
+theatlantic
+theatlantic
+theatlantic
+telegraphcouk
+survivalmonkey
+subjectpolitics
+sputniknews
+smartbrief
+slate
+slate
+slate
+slate
+slate
+shutterstock
+sfgate
+seattletimes
+scmp
+salon
+salon
+sacbee
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+rt
+riverfronttimes
+richmond
+reuters
+reuters
+reuters
+reuters
+reuters
+reuters
+redstate
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+reddit
+rd
+rawstory
+rawstory
+rawstory
+rawstory
+rawstory
+rawstory
+rawstory
+rawstory
+projectveritas
+pressdemocrat
+politico
+politico
+politico
+politico
+politico
+politico
+politico
+politico
+politico
+politico
+politico
+politico
+physorg
+physorg
+physorg
+physorg
+physorg
+photogalleryindiatimes
+pcgamer
+pbsorg
+pbsorg
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+patch
+oregonlive
+oregonlive
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nytimes
+nypost
+nypost
+nypost
+nypost
+nypost
+nypost
+nypost
+nypost
+nypost
+nypost
+nypost
+nypost
+nymag
+nymag
+nymag
+nymag
+nymag
+nymag
+nymag
+nymag
+nydailynews
+nydailynews
+nydailynews
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nprorg
+nj
+newyorker
+newyorker
+newyorker
+newyorker
+newyorker
+newyorker
+newyorkcbslocal
+newsweek
+newsweek
+newsweek
+newsweek
+newsweek
+newstimes
+newsnationalgeographic
+newsnationalgeographic
+newsnationalgeographic
+newsmax
+newsmax
+newsgoogle
+newsgoogle
+newsgoogle
+newsgoogle
+newsgoogle
+newsday
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nbcnews
+nature
+nationalpost
+nationalgeographic
+nationalgeographic
+naplesnews
+msnbc
+motherjones
+motherjones
+moneycnn
+moneycnn
+moneycnn
+moneycnn
+mobilewnd
+mobilewnd
+mobilenytimes
+mmetrotimes
+mintpressnews
+mintpressnews
+mintpressnews
+mintpressnews
+miamiherald
+miamiherald
+miamiherald
+medium
+medium
+medium
+medium
+medium
+medium
+medium
+medium
+medium
+mediamattersorg
+mediaconservative
+mcall
+mcall
+mcall
+marketwatch
+lifezette
+lifesitenews
+lifesitenews
+latimes
+latimes
+latimes
+latimes
+latimes
+latimes
+latimes
+lancasteronline
+jpost
+jewsnewscoil
+investmentwatchblog
+insiderfoxnews
+insiderfoxnews
+insiderfoxnews
+inquisitr
+independentcouk
+independentcouk
+independentcouk
+independentcouk
+independentcouk
+independentcouk
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+huffingtonpost
+hotair
+heavy
+healthusnews
+healthnutnews
+gizmodo
+ft
+frontpagemag
+freep
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxnews
+foxbusiness
+fortune
+forbes
+forbes
+forbes
+forbes
+forbes
+forbes
+forbes
+forbes
+forbes
+forbes
+forbes
+forbes
+forbes
+forbes
+forbes
+forbes
+forbes
+filmsforactionorg/articles/when-our-children-become-killers-gun-reform-isnt-enough-we-need-to-redesign-our-society/
+feedly
+entertainmenttheonion
+engadget
+engadget
+economist
+downtrend
+detroitnews
+desmoinesregister
+dailywire
+dailywire
+dailywire
+dailywire
+dailywire
+dailywire
+dailywire
+dailywire
+dailywire
+dailywire
+dailywire
+dailywire
+dailywire
+dailywire
+dailywire
+dailymailcouk/news/article-5922691/Facebook-flags-Declaration-Independence-hate-speechhtml
+dailymailcouk/news/article-5802919/Mum-horrified-daughter-confronted-sex-room-childrens-gamehtml
+dailymailcouk/news/article-5779821/Casey-Anthonys-mom-storms-set-emotional-interview-death-baby-Cayleehtml
+dailymailcouk/news/article-5626041/Holly-Hylton-Starbucks-manager-called-police-two-black-men-trespassinghtml
+dailymailcouk/news/article-5465409/Lawyers-Jodi-Arias-missed-deadline-appeal-murder-convictionhtml
+dailymailcouk/news/article-3454264/Writhing-agony-verge-organ-failure-Palestinian-journalist-87-DAY-hunger-strike-detention-without-charge-Israel-terror-activityhtml
+dailykos
+dailyherald
+dailyheadlinesnow
+csmonitor
+counterpunchorg/2017/09/08/hillary-hates-again/
+counterpunchorg/2015/12/18/who-owns-the-federal-reserve-bank-and-why-is-it-shrouded-in-myths-and-mysteries/
+conservativetribune
+conservativetribune
+conservativedailypost
+cnsnews
+cnsnews
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnn
+cnet
+cnet
+cnbc
+cnbc
+cnbc
+citypages
+chron
+chicagotribune
+chicagotribune
+chicagotribune
+chicagotribune
+chicagotribune
+cbsnews
+cbsnews
+cbsnews
+cbsnews
+cbsnews
+cbsnews
+cbsnews
+cbsnews
+cbsnews
+cbsnews
+cbsnews
+cbsnews
+cbsnews
+cbsnews
+cbsnews
+buzzfeed
+buzzfeed
+buzzfeed
+buzzfeed
+buzzfeed
+buzzfeed
+buzzfeed
+buzzfeed
+buzzfeed
+buzzfeed
+buzzfeed
+buzzfeed
+buzzfeed
+buzzfeed
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+businessinsider
+breitbart
+breitbart
+bloomberg
+bloomberg
+bloomberg
+blogsscientificamerican
+bizpacreview
+bbc
+bbc
+bbc
+bbc
+bbc
+bankrate
+axios
+atlantablackstar
+articleslatimes
+arstechnica
+americanjournalreview
+aljazeera
+al
+ajc
+ajc
