@@ -5,7 +5,6 @@ import time
 import json
 from bs4 import BeautifulSoup
 from HTMLParser import HTMLParser
-import xml.etree.ElementTree as ET
 
 
 def main():
@@ -43,7 +42,6 @@ def get_youtube_info(html_soup):
     description = ""     
     for text in description_runs:
         description += text["text"]
-    description = description.replace('\n', '\t') #TODO change from \t to something more consistent
     
     #Category
     category_runs = videoSecondaryInfoRenderer["metadataRowContainer"]["metadataRowContainerRenderer"]["rows"][0]["metadataRowRenderer"]["contents"][0]["runs"]
@@ -52,7 +50,7 @@ def get_youtube_info(html_soup):
 	#Channel description
     channel_desc = description_lookup(channel_name)
 
-    #Captions
+    #Captions, Only get news categories
     caption = caption_parser(html_soup)
     likes_count_clean = _strip_non_numeric(likes_count)
 
