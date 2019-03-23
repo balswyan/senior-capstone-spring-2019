@@ -1,4 +1,5 @@
 *.csv
+*.p
 .Rproj.user
 .Rhistory
 .RData
