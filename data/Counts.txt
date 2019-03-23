@@ -1,56 +1,35 @@
-103,cnn.com
-86,theatlantic.com
-75,npr.org
-74,huffingtonpost.com
-68,nypost.com
-62,forbes.com
-61,businessinsider.com
-60,foxnews.com
-53,reddit.com
-51,thehill.com
-48,usatoday.com
-44,reuters.com
-42,buzzfeed.com
-42,theguardian.com
-39,wired.com
-38,nbcnews.com
-37,dailynorthwestern.com
-37,time.com
-35,money.cnn.com
-34,wsj.com
-33,marketwatch.com
-31,bloomberg.com
-31,cbsnews.com
-30,cnbc.com
-30,news.google.com
-30,patch.com
-30,vox.com
-26,bbc.com
-26,newsweek.com
-25,politico.com
-24,economist.com
-24,latimes.com
-24,medium.com
-23,dailywire.com
-23,newyorker.com
-23,slate.com
-21,variety.com
-19,dailymail.co.uk
-19,rawstory.com
-19,sfgate.com
-16,chicagotribune.com
-13,cnet.com
-13,thedailybeast.com
-12,chron.com
-12,nydailynews.com
-12,smallbusiness.chron.com
-12,theroot.com
-11,independent.co.uk
-11,scientificamerican.com
-11,usnews.com
-11,washingtontimes.com
-11,wtop.com
-10,nymag.com
+103,cnn.com  <- Format issue capture
+86,theatlantic.com * Title Based Question
+68,nypost.com >- Extra Photos or and ads, other article on the side photos
+61,businessinsider.com >-
+51,thehill.com >-
+44,reuters.com <- Does not take capture picture 
+42,buzzfeed.com <- No Images or Para
+39,wired.com >-
+34,wsj.com * Ask her about Accsess of the article
+33,marketwatch.com >-
+31,bloomberg.com >-
+31,cbsnews.com >-
+30,cnbc.com >-
+30,news.google.com * Just redirct server
+30,patch.com >-
+30,vox.com >-
+26,bbc.com <- Unrelated stuff are captured
+26,newsweek.com >-
+25,politico.com >-
+24,latimes.com >-
+23,newyorker.com >-
+19,dailymail.co.uk >- and <- Images are too much 
+19,rawstory.com >-
+19,sfgate.com >- Images are too much 
+16,chicagotribune.com <-
+12,chron.com <-
+12,theroot.com <-
+11,independent.co.uk >- and <- 
+11,usnews.com <-
+11,washingtontimes.com >- and <- 
+10,nymag.com >- and <-
+
 9,ajc.com
 9,detroitnews.com
 9,vice.com

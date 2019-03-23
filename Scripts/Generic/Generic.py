@@ -8,7 +8,7 @@ import json
 
 def main():
     print(os.getcwd())
-    output_path = 'Scripts/Generic/'
+    output_path = 'C:\Users\BGAls\Desktop\git\senior-capstone-spring-2019\Scripts\Generic'
     html_info = get_url_info('Page.html', output_path)
     json.dump(html_info, open('%s/%s.json' % (output_path, "Page"), 'w'))
 
