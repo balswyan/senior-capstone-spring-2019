@@ -1,6 +1,3 @@
-﻿392,washingtonpost.com
-241,nytimes.com
-135,rt.com
 103,cnn.com
 86,theatlantic.com
 75,npr.org
