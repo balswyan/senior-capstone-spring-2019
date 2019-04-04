@@ -1,0 +1,51 @@
+103,cnn.com  <- Format issue capture
+86,theatlantic.com * Title Based Question
+68,nypost.com >- Extra Photos or and ads, other article on the side photos
+61,businessinsider.com >-
+51,thehill.com >-
+44,reuters.com <- Does not take capture picture 
+42,buzzfeed.com <- No Images or Para
+39,wired.com >-
+34,wsj.com * Ask her about Accsess of the article
+33,marketwatch.com >-
+31,bloomberg.com >-
+31,cbsnews.com >-
+30,cnbc.com >-
+30,news.google.com * Just redirct server
+30,patch.com >-
+30,vox.com >-
+26,bbc.com <- Unrelated stuff are captured
+26,newsweek.com >-
+25,politico.com >-
+24,latimes.com >-
+23,newyorker.com >-
+19,dailymail.co.uk >- and <- Images are too much 
+19,rawstory.com >-
+19,sfgate.com >- Images are too much 
+16,chicagotribune.com <-
+12,chron.com <-
+12,theroot.com <-
+11,independent.co.uk >- and <- 
+11,usnews.com <-
+11,washingtontimes.com >- and <- 
+10,nymag.com >- and <-
+
+
+9,vice.com
+8,fivethirtyeight.com
+8,motherjones.com
+8,telegraph.co.uk
+8,timesofindia.indiatimes.com
+8,washingtonexaminer.com
+7,cjr.org
+7,salon.com
+6,aljazeera.com
+6,alternet.org
+6,arstechnica.com
+5,fortune.com
+5,pbs.org
+5,thenation.com
+5,theonion.com
+5,theweek.com
+4,msnbc.com
+3,breitbart.com
