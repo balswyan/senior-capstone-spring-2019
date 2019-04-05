@@ -29,23 +29,23 @@
 11,usnews.com <-
 11,washingtontimes.com >- and <- 
 10,nymag.com >- and <-
+8,motherjones.com >- Ads
+8,telegraph.co.uk <- Does not capture the required due to regestration barrier and does not catch the pictures
+8,indiatimes.com <- No Images
+8,washingtonexaminer.com >- Catach Images
+7,salon.com >- Catch Extra info that are not needed and no images
+6,aljazeera.com >- and <- format issues big time in the paragraph ending
+6,alternet.org >- and <- print the agent of the computer usage in the paragraoh. Description and title is so missed up
+5,fortune.com <- extra photos that are not related.
+5,pbs.org >- and <- Horibble and Pain
+5,thenation.com <- Format issue I think. It has "\n\t\t" in the paragraoh place.
+5,theweek.com <- Extra photos
+3,breitbart.com <- Extra Photos
 
-
+Works:
 9,vice.com
 8,fivethirtyeight.com
-8,motherjones.com
-8,telegraph.co.uk
-8,timesofindia.indiatimes.com
-8,washingtonexaminer.com
 7,cjr.org
-7,salon.com
-6,aljazeera.com
-6,alternet.org
 6,arstechnica.com
-5,fortune.com
-5,pbs.org
 5,thenation.com
-5,theonion.com
-5,theweek.com
 4,msnbc.com
-3,breitbart.com
